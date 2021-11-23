@@ -1,0 +1,11 @@
+@font-face {
+        font-family: 'destructobeam_bbregular';
+        src: url('destructobeambb_reg-webfont.woff2') format('woff2'),
+             url('destructobeambb_reg-webfont.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    h1{
+        font-family: 'destructobeam_bbregular';
+    }
